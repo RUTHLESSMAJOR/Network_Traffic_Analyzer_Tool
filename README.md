@@ -1,5 +1,5 @@
 # Code of Tool written by Prateek Bheevgade
-# use Visual Studio Software 
+
 
 # TABLE OF CONTENTS
 
@@ -17,9 +17,13 @@ frameworks to create an intuitive graphical interface that allows users to monit
 # System Requirements
 
 • Python 3.8 or higher
+
 • Operating System: Windows 10/11, Linux, macOS
+
 • Minimum 4GB RAM
+
 • Network interface card
+
 • Administrative privileges for packet capture
 
 # NETWORK ANALYSIS TOOL
