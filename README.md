@@ -26,9 +26,9 @@ frameworks to create an intuitive graphical interface that allows users to monit
 
 • Administrative privileges for packet capture
 
-# NETWORK ANALYSIS TOOL
+# NETWORK ANALYSIS TOOL - BREAK DOWN 
 
-1. Core Architecture
+# 1. Core Architecture
    
 1.1 Main Components
 
@@ -53,14 +53,14 @@ frameworks to create an intuitive graphical interface that allows users to monit
 • Seaborn: Statistical data visualization
 
 
-2. Detailed Component Analysis
+# 2. Detailed Component Analysis
 
 2.1 GUI Implementation (PrateekNetworkAnalyzer)
 
 • Layout: Uses a two-panel design with controls/packet list on the left and visualizations on the
 right
 
-Key Features:
+# Key Features:
 
 • Real-time packet capture display
 
@@ -73,7 +73,7 @@ Key Features:
 • Multi-threaded packet capture to maintain UI responsiveness
 
 
-3. Data Export Capabilities
+# 3. Data Export Capabilities
    
 • JSON export of captured packets
 
