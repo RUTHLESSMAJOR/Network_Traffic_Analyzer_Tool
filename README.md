@@ -1,20 +1,20 @@
 # Code of Tool written by Prateek Bheevgade
 # use Visual Studio Software 
 
-TABLE OF CONTENTS
+# TABLE OF CONTENTS
 
 Introduction
 Network Traffic Analysis – Break Down
 Results and Implementation
 Conclusion
 
-INTRODUCTION
+# INTRODUCTION
 Project Overview
 
 The Network Traffic Analysis Tool is a comprehensive Python-based application designed to provide real-time network packet capture, analysis, and visualization. The system utilizes modern libraries and
 frameworks to create an intuitive graphical interface that allows users to monitor and analyze network traffic patterns effectively.
 
-System Requirements
+# System Requirements
 
 • Python 3.8 or higher
 • Operating System: Windows 10/11, Linux, macOS
@@ -22,7 +22,7 @@ System Requirements
 • Network interface card
 • Administrative privileges for packet capture
 
-NETWORK ANALYSIS TOOL
+# NETWORK ANALYSIS TOOL
 1. Core Architecture
 1.1 Main Components
 • PrateekNetworkAnalyzer: Core class implementing the main application logic and GUI
@@ -56,14 +56,11 @@ Key Features:
 • Visualization export as PNG files
 • Automated file naming with timestamps
 
-Result & Implementation Check the Final Project Report PDF
+# Result & Implementation Check the Final Project Report PDF
 
 
-Conclusion
-The analyzed network traffic analyzer demonstrates a robust foundation
-for network monitoring and analysis. Its modular design allows for easy
-extension and modification, while the integration of advanced features
-like machine learning and security analysis makes it a valuable tool for
-network administrators. The identified areas for improvement provide
-clear paths for future development while maintaining the existing
+# Conclusion:
+
+The analyzed network traffic analyzer demonstrates a robust foundation for network monitoring and analysis. Its modular design allows for easy extension and modification, while the integration of advanced features
+like machine learning and security analysis makes it a valuable tool for network administrators. The identified areas for improvement provide clear paths for future development while maintaining the existing
 strengths of the application.
